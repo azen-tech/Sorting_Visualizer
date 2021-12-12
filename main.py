@@ -4,7 +4,7 @@ import random
 from colors import *
 
 # Importing algorithms 
-from algorithms.bubbleSort import *
+from algorithms.bubble_sort import *
 from algorithms.selectionSort import selection_sort
 from algorithms.insertionSort import insertion_sort
 from algorithms.mergeSort import merge_sort
